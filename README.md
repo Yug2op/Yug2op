@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Yug2op/Yug2op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Yugank Tripathi**, a passionate **Web Developer** and **MERN Stack Enthusiast** from Varanasi. I love building user-friendly web applications, exploring new technologies.🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 **About Me**  
+- 🌱 Learning: **MERN Stack**, **DevOps**, and **Advanced JavaScript**  
+- 💯 Open to collaborate on: **Web Development Projects** 
+- 🤔 Looking for help with: **Building scalable and secure applications**  
+- 💬 Ask me about: **React, Node.js, MongoDB, and Tailwind CSS**  
+- ⚡ Fun fact: *I believe coffee and coding are the ultimate combo!* ☕💻
+
+---
+
+### 🔨 **Tech Stack**
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Tools**: Git, GitHub, VS Code  
+
+---
+
+### 📈 **GitHub Stats**
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yug2op&show_icons=true&theme=radical)](https://github.com/Yug2op)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yug2op&layout=compact&theme=radical)](https://github.com/Yug2op)
+
+---
+
+### 🌐 **Connect With Me**
+- 🌍 [Portfolio](https://your-portfolio-link.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yugank-tripathi-830b7a23a/)  
+- 📧 **Email**: mr.yugank.2000@gmail.com
