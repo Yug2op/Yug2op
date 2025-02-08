@@ -28,6 +28,6 @@ I'm **Yugank Tripathi**, a passionate **Web Developer** and **MERN Stack Enthusi
 ---
 
 ### 🌐 **Connect With Me**
-- 🌍 [Portfolio](#)  
+- 🌍 [Portfolio](https://my-portfolio-theta-one-67.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yugank-tripathi-830b7a23a/)  
 - 📧 **Email**: mr.yugank.2000@gmail.com
