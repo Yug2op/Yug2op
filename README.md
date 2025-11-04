@@ -5,10 +5,10 @@ I'm **Yugank Tripathi**, a passionate **Web Developer** and **MERN Stack Enthusi
 ---
 
 ### 💡 **About Me**  
-- 🌱 Learning: **MERN Stack**, **DevOps**, and **Advanced JavaScript**  
+- 🌱 Learning: **MERN Stack**, **Data Engg**, and **Advanced JavaScript**  
 - 💯 Open to collaborate on: **Web Development Projects** 
 - 🤔 Looking for help with: **Building scalable and secure applications**  
-- 💬 Ask me about: **React, Node.js, MongoDB, and Tailwind CSS**  
+- 💬 Ask me about: **React, Node.js, MongoDB, SQL**, and **Tailwind CSS**  
 - ⚡ Fun fact: *I believe coffee and coding are the ultimate combo!* ☕💻
 
 ---
@@ -16,8 +16,8 @@ I'm **Yugank Tripathi**, a passionate **Web Developer** and **MERN Stack Enthusi
 ### 🔨 **Tech Stack**
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS  
 - **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Tools**: Git, GitHub, VS Code  
+- **Database**: MongoDB , SQL 
+- **Tools**: Git, GitHub, VS Code, Postman
 
 ---
 
